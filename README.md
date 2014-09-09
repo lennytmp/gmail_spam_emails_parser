@@ -15,10 +15,10 @@ node main.js > /tmp/result.txt
 ```
 
 This is an example of output format:
-
-> :: 1 // this is the number of emails parsed
-> test@example.com
-> ::2
-> test2@example.com
-> test3@example.com
-
+```
+:: 1 // this is the number of emails parsed
+test@example.com
+::2
+test2@example.com
+test3@example.com
+```
