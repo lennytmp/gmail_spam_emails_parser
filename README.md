@@ -3,7 +3,7 @@
 Dirty script which gets all email addresses from SPAM folder of a Gmail account. Uses oauth2 for authorisation.
 
 
-## Instruction
+## Instructions
 
 First, CLIENT_ID, CLIENT_SECRET and callback_url should be specified.
 
